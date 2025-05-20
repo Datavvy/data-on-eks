@@ -46,7 +46,6 @@ local_tf_state/
 .vscode
 .gitallowed
 site
-.env*
 
 # Checks
 .tfsec
@@ -62,3 +61,4 @@ node_modules
 gen-ai/inference/stable-diffusion-rayserve-gpu/locust/__pycache__/*
 website/package-lock.json
 website/package.json
+config.bat
